@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-app3-routing",
+  "version": "1.0.0",
+  "description": "NodeJS aapliaction demo - Routing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NodeJS-App3-Routing"
+  },
+  "keywords": [
+    "nodejs",
+    "routing"
+  ],
+  "author": "rinkeshpatel22",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
